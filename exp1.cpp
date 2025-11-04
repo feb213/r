@@ -35,7 +35,7 @@ class BankAccount{
  
  int main(){
    BankAccount obj;
-   obj.details("Dinesh",857856,"saving",210000);
+   obj.details("RAM",857856,"saving",210000);
    obj.deposite_amount(2000);
    obj.display();
    return 0;
