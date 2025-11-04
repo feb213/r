@@ -13,10 +13,6 @@ class Rectangle
  		Rectangle(double l,double w){
  			length=l;
 			 width=w;
-			 cout<<"\n Enter the length::";
-			 cin>>length;
-			 cout<<"\n Enter the width::";
-			 cin>>width;
 			}
 		void Area(){
 			cout<<"\nlength:"<<length;
